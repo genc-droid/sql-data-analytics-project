@@ -4,7 +4,7 @@ This repository contains SQL queries designed to help data analysts and BI profe
 
 
 # Project Roadmap
-![Project Roadmap](docs/Project Roadmap.png)
+![Project Roadmap](docs/Project_Roadmap.png)
 
 
 ## 🛡️ License
